@@ -27,7 +27,7 @@ Note that this application is intended for use with bounded color domain sets.
 Once the application is running, the color selector interface will pop up with simple directions in the window title.
 
 To view prometheus metrics hit the following endpoint:
-`http://localhost:1234/metrics`
+[http://localhost:1234/metrics](http://localhost:1234/metrics)
 
 ### Lint and Test
 `mvn test`
