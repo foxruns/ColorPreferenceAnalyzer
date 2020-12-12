@@ -21,8 +21,8 @@ the data gathered drastically.
 Note that this application is intended for use with bounded color domain sets.
 
 ### To build and run
-`mvn clean install  
-mvn exec:java`
+`mvn clean install`  
+`mvn exec:java`
 
 Once the application is running, the color selector interface will pop up with simple directions in the window title.
 
